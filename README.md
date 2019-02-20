@@ -29,7 +29,7 @@ The method seems to work well in scenarios where pedestrians are not very close 
   Found this paper, they have also done pedestrian tracking on this video. They have not shared the implementation of their algorithm but they have shared the results.
 
 ![](https://raw.githubusercontent.com/ArchitParnami/Pedestrian-Tracking/master/Images/3.png)    
-![Video](https://www.dropbox.com/s/vwqjv734h9y85jp/Alan03_DivX.avi?dl=0)  
+[Video](https://www.dropbox.com/s/vwqjv734h9y85jp/Alan03_DivX.avi?dl=0)  
 
 ## 3[. Tracking Pedestrians from a Moving Car](https://www.mathworks.com/help/vision/examples/tracking-pedestrians-from-a-moving-car.html)
 
