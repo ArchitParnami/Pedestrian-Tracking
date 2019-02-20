@@ -77,12 +77,12 @@ https://drive.google.com/open?id=1JKWSW2MGsoQ1-RVWjrZCNfg3qLwXYAwf
 Radius = 100
 
 **Representation:**
-Yellow → Ground Truth
-Blue → False Negative
-**Green & Red → Detections → Lower Center of the Bounding Box**
+Yellow → Ground Truth  
+Blue → False Negative  
+**Green & Red → Detections → Lower Center of the Bounding Box**  
 
-  Green → True Positive
-  Red    →  False Positive
+  Green → True Positive  
+  Red    →  False Positive  
 
 ![](https://raw.githubusercontent.com/ArchitParnami/Pedestrian-Tracking/master/Images/9.png)  
 ![Video](https://www.dropbox.com/s/h4hhuucjp5vwjqb/Evaluation_True_Positives.avi?dl=0)
@@ -101,9 +101,9 @@ Blue → False Negative
 
 
 
-**Detection Method and Results:** MASK R CNN
+**Detection Method and Results:** MASK-RCNN
 
-https://www.dropbox.com/s/iqxr65b4ridqf3f/results_student.json?dl=0
+https://github.com/ArchitParnami/Pedestrian-Tracking/blob/master/Evaluation/results_student.json
 
 
 ****
