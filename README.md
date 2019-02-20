@@ -2,7 +2,7 @@
 
 
 ![](https://raw.githubusercontent.com/ArchitParnami/Pedestrian-Tracking/master/Images/1.png)  
-![Video](https://www.dropbox.com/s/n3vkx1bk88gsulk/students003.mp4?dl=0)
+[Video](https://www.dropbox.com/s/n3vkx1bk88gsulk/students003.mp4?dl=0)
 
 # Methods
 ## 1. [Motion-Based Multiple Object Tracking](https://www.mathworks.com/help/vision/examples/motion-based-multiple-object-tracking.html)
@@ -10,7 +10,7 @@
 https://www.dropbox.com/s/zq4zf82yfaizbpk/MotionBasedMultiObjectTrackingExample.m?dl=0
 
 ![](https://raw.githubusercontent.com/ArchitParnami/Pedestrian-Tracking/master/Images/2.png)  
-![Video](https://www.dropbox.com/s/me5xytzjd59uecm/Results.mov?dl=0)
+[Video](https://www.dropbox.com/s/me5xytzjd59uecm/Results.mov?dl=0)
 
 **How the Algorithm works?**
 
@@ -36,7 +36,7 @@ The method seems to work well in scenarios where pedestrians are not very close 
   
 
 ![](https://raw.githubusercontent.com/ArchitParnami/Pedestrian-Tracking/master/Images/4.png)    
-![Video](https://www.dropbox.com/s/6vxe5uzruolnhwo/Results%20-%20TrackingPedestriansMovingCarExample.mov?dl=0)
+[Video](https://www.dropbox.com/s/6vxe5uzruolnhwo/Results%20-%20TrackingPedestriansMovingCarExample.mov?dl=0)
 
 
 **Analysis**
@@ -46,17 +46,17 @@ Method 3 overcomes the shortcomings of Method 1. As seen in the video, it seems 
 I am able to interpolate ground truth from the given spline data. Here is how the ground truth looks like.
 
 ![](https://raw.githubusercontent.com/ArchitParnami/Pedestrian-Tracking/master/Images/5.png)  
-![Video](https://www.dropbox.com/s/rcyhshpu0ylk7pv/GroundTruth.avi?dl=0)
+[Video](https://www.dropbox.com/s/rcyhshpu0ylk7pv/GroundTruth.avi?dl=0)
 
 ![](https://raw.githubusercontent.com/ArchitParnami/Pedestrian-Tracking/master/Images/6.png)  
-![Video](https://www.dropbox.com/s/nu97zf4x1xgn9s3/GTWithStationaryPeople.avi?dl=0)
+[Video](https://www.dropbox.com/s/nu97zf4x1xgn9s3/GTWithStationaryPeople.avi?dl=0)
 
 
 **Comparing ground truth with Detection from method 3**
 Play the video at 0.5x for more clarity
 
 ![](https://raw.githubusercontent.com/ArchitParnami/Pedestrian-Tracking/master/Images/7.png)  
-![Video](https://www.dropbox.com/s/ugycmh15zi429l1/TrackingWithGT-1.avi?dl=0)
+[Video](https://www.dropbox.com/s/ugycmh15zi429l1/TrackingWithGT-1.avi?dl=0)
 
 
 
@@ -71,7 +71,7 @@ https://drive.google.com/open?id=1JKWSW2MGsoQ1-RVWjrZCNfg3qLwXYAwf
 
 # Evaluation
 ![](https://raw.githubusercontent.com/ArchitParnami/Pedestrian-Tracking/master/Images/8.png)  
-![Video](https://www.dropbox.com/s/m7cll3l57k4g2ko/Evaluation.avi?dl=0)
+[Video](https://www.dropbox.com/s/m7cll3l57k4g2ko/Evaluation.avi?dl=0)
 
 
 Radius = 100
@@ -85,16 +85,16 @@ Blue → False Negative
   Red    →  False Positive  
 
 ![](https://raw.githubusercontent.com/ArchitParnami/Pedestrian-Tracking/master/Images/9.png)  
-![Video](https://www.dropbox.com/s/h4hhuucjp5vwjqb/Evaluation_True_Positives.avi?dl=0)
+[Video](https://www.dropbox.com/s/h4hhuucjp5vwjqb/Evaluation_True_Positives.avi?dl=0)
 
 ![](https://raw.githubusercontent.com/ArchitParnami/Pedestrian-Tracking/master/Images/10.png)  
-![Video](https://www.dropbox.com/s/cbfxcsuxl7lj108/Evaluation_False_Negatives.avi?dl=0)
+[Video](https://www.dropbox.com/s/cbfxcsuxl7lj108/Evaluation_False_Negatives.avi?dl=0)
 
 ![](https://raw.githubusercontent.com/ArchitParnami/Pedestrian-Tracking/master/Images/11.png)  
-![Video](https://www.dropbox.com/s/pc9om1dgedbdw6w/Evaluation_False_Positives.avi?dl=0)
+[Video](https://www.dropbox.com/s/pc9om1dgedbdw6w/Evaluation_False_Positives.avi?dl=0)
 
 ![](https://raw.githubusercontent.com/ArchitParnami/Pedestrian-Tracking/master/Images/12.png)  
-![Video](https://www.dropbox.com/s/6funh9j18aq71p0/Evaluation_All.avi?dl=0)
+[Video](https://www.dropbox.com/s/6funh9j18aq71p0/Evaluation_All.avi?dl=0)
 
 
 
