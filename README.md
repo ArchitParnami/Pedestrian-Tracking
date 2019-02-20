@@ -1,14 +1,14 @@
 # First take on pedestrian detection
 
-# Data
-https://www.dropbox.com/s/n3vkx1bk88gsulk/students003.mp4?dl=0
+
+![https://www.dropbox.com/s/n3vkx1bk88gsulk/students003.mp4?dl=0](https://raw.githubusercontent.com/ArchitParnami/Pedestrian-Tracking/master/Images/1.png)
 
 # Methods
 ## 1. [Motion-Based Multiple Object Tracking](https://www.mathworks.com/help/vision/examples/motion-based-multiple-object-tracking.html)
   I simply used the example MATLAB code on this video and obtained the following results.
 https://www.dropbox.com/s/zq4zf82yfaizbpk/MotionBasedMultiObjectTrackingExample.m?dl=0
 
-https://www.dropbox.com/s/me5xytzjd59uecm/Results.mov?dl=0
+![https://www.dropbox.com/s/me5xytzjd59uecm/Results.mov?dl=0](https://raw.githubusercontent.com/ArchitParnami/Pedestrian-Tracking/master/Images/2.png)
 
 
 **How the Algorithm works?**
